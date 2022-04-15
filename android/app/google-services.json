@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "968090339624",
+    "firebase_url": "https://flash-chat-df096.firebaseio.com",
+    "project_id": "flash-chat-df096",
+    "storage_bucket": "flash-chat-df096.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968090339624:android:99fb3e1107615a389e281d",
+        "android_client_info": {
+          "package_name": "co.morasd.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968090339624-3v8ms3sknuda18pkc5v4eu0a8ngks4bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfU8CBKVnUjHFjHfhR1AtgMdaVXVvNRf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968090339624-3v8ms3sknuda18pkc5v4eu0a8ngks4bd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "968090339624-eic2tub73emk15ifpo21qj6fjap7k2dg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jobTest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968090339624:android:5be7771b4d19e2669e281d",
+        "android_client_info": {
+          "package_name": "com.example.job_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968090339624-3v8ms3sknuda18pkc5v4eu0a8ngks4bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfU8CBKVnUjHFjHfhR1AtgMdaVXVvNRf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968090339624-3v8ms3sknuda18pkc5v4eu0a8ngks4bd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "968090339624-eic2tub73emk15ifpo21qj6fjap7k2dg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jobTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
